@@ -14,7 +14,7 @@
 
 <h2 align="center">🔨 Языки и инструменты</h2>
 
-<h2 align="center">📊 Github статус</h2>
+<h2 align="center">📊 Github статистика</h2>
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=tabulaweb&show_icons=true&theme=gotham">
