@@ -10,11 +10,11 @@
   <code><a href="https://vk.com/tabula98" title="Instagram Profile"><img width="22" src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/vk.svg"></a></code>
 </h5>
 <br>
-<h2 align="center">🧐 Обо мне</h2>
+<h3 align="center">🧐 Обо мне</h2>
 
-<h2 align="center">🔨 Языки и инструменты</h2>
+<h3 align="center">🔨 Языки и инструменты</h2>
 
-<h2 align="center">📊 Github статистика</h2>
+<h3 align="center">📊 Github статистика</h2>
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=tabulaweb&show_icons=true&theme=gotham">
@@ -26,5 +26,3 @@
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=tabulaweb&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true" />
 </p>
-
-<h2 align="center">🤖 статистика программирования</h2>
