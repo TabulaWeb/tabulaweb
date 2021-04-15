@@ -23,7 +23,8 @@
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabulaweb&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tabulaweb&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=tabulaweb&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true" />
+</p>
 
 <h2 align="center">🤖 статистика программирования</h2>
