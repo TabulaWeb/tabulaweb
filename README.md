@@ -1,5 +1,4 @@
 <img align="right" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=tabulaweb&repo=gtabulaweb&countColorcountColor&countColor=%237B1E7A">
-<br>
 <h3 align="center">
   Привет, меня зовут Алексей Табула <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h3>
