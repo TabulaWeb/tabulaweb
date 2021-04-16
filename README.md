@@ -13,9 +13,22 @@
 <h3 align="center">🧐 Обо мне</h2>
 
 <h3 align="center">🔨 Языки и инструменты</h2>
-
+<p align="center">
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/javascript.svg" alt="pytorch" height="42px"/> </a>
+  <a href="https://github.com/TabulaWeb/tabulaweb/blob/master/image/react.svg" target="_blank"><img alt="Python" height ="42px" src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/react.svg"></a>
+  <a href="https://github.com/TabulaWeb/tabulaweb/blob/master/image/django.png" target="_blank"> <img alt="Android" height ="42px" src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/django.png"> </a>
+  <a href="https://github.com/TabulaWeb/tabulaweb/blob/master/image/python-original.svg" target="_blank"><img alt="Kotlin" height ="42px" src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/python-original.svg"></a>
+  <a href="https://github.com/TabulaWeb/tabulaweb/blob/master/image/php.svg" target="_blank"> <img src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/php.svg" alt="firebase" height ="42px"/> </a>
+  <a href="https://github.com/TabulaWeb/tabulaweb/blob/master/image/gulp.svg" target="_blank"> <img alt="JavaScript" height ="42px"  src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/gulp.svg"> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+  <a href="https://github.com/TabulaWeb/tabulaweb/blob/master/image/html5.svg" target="_blank"> <img alt="React" height ="42px" src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/html5.svg"></a>
+  <a href="https://github.com/TabulaWeb/tabulaweb/blob/master/image/css.svg" target="_blank"><img alt="Node.js" height ="42px" src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/css.svg"></a>
+  <a href="https://github.com/TabulaWeb/tabulaweb/blob/master/image/git-scm.svg" target="_blank"> <img src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/git-scm.svg" alt="git" height='42px'/> </a>
+   <a href="https://github.com/TabulaWeb/tabulaweb/blob/master/image/npm.svg" target="_blank"> <img src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/npm.svg" alt="figma" height='42px'/> </a>
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+</p>  
 <h3 align="center">📊 Github статистика</h2>
-<p align=center>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=tabulaweb&show_icons=true&theme=gotham">
   </a>
