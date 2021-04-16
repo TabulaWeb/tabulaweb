@@ -49,3 +49,6 @@
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=tabulaweb&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true" />
 </p>
+<p align="center">
+  <img src="https://www.codewars.com/users/WebTabula/badges/large">
+</p>
