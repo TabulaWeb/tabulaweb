@@ -12,6 +12,8 @@
 <br>
 <h3 align="center">🧐 Обо мне</h2>
 
+
+<br>
 <h3 align="center">🔨 Языки и инструменты</h2>
 <p align="center">
   <a href="https://pytorch.org/" target="_blank"> <img src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/javascript.svg" alt="pytorch" height="42px"/> </a>
@@ -26,7 +28,9 @@
   <a href="https://github.com/TabulaWeb/tabulaweb/blob/master/image/git-scm.svg" target="_blank"> <img src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/git-scm.svg" alt="git" height='42px'/> </a>
    <a href="https://github.com/TabulaWeb/tabulaweb/blob/master/image/npm.svg" target="_blank"> <img src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/npm.svg" alt="figma" height='42px'/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+  <a href="https://github.com/TabulaWeb/tabulaweb/blob/master/image/vscode.png" target="_blank"> <img src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/vscode.png" alt="figma" height='42px'/> </a>
 </p>  
+<br>
 <h3 align="center">📊 Github статистика</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
