@@ -10,13 +10,18 @@
   <code><a href="https://vk.com/tabula98" title="Instagram Profile"><img width="22" src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/vk.svg"></a></code>
 </h5>
 <br>
-<h3 align="center">🧐 Обо мне</h2>
-
-
+<h3 align="left">🧐 Обо мне</h2>
+<img align="right" src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/coder.gif" height="250" width="375" alt="pytorch" height="42px"/>
+<p align="left">🛠 Сейчас я работаю с Javascript, React, ReactNative</p>
+<p align="left">🚀 В настоящее время я изучаю Front-End</p>
+<p align="left">💡 Время от времени я участвую в хакатонах</p>
+<p align="left">😄 Люблю новые знакомста, так что смело пишите мне</p>
+<p align="left">📫 Как со мной связаться: <a href="mailto:tabulaweb@mail.ru">tabulaweb@mail.ru</a></p>
+<br>
 <br>
 <h3 align="center">🔨 Языки и инструменты</h2>
 <p align="center">
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/javascript.svg" alt="pytorch" height="42px"/> </a>
+  <a href="https://github.com/TabulaWeb/tabulaweb/blob/master/image/javascript.svg" target="_blank"> <img src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/javascript.svg" alt="pytorch" height="42px"/> </a>
   <a href="https://github.com/TabulaWeb/tabulaweb/blob/master/image/react.svg" target="_blank"><img alt="Python" height ="42px" src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/react.svg"></a>
   <a href="https://github.com/TabulaWeb/tabulaweb/blob/master/image/django.png" target="_blank"> <img alt="Android" height ="42px" src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/django.png"> </a>
   <a href="https://github.com/TabulaWeb/tabulaweb/blob/master/image/python-original.svg" target="_blank"><img alt="Kotlin" height ="42px" src="https://github.com/TabulaWeb/tabulaweb/blob/master/image/python-original.svg"></a>
